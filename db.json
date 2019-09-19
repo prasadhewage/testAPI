@@ -82,7 +82,8 @@
         "token": "668f71813e49432ab7acc4b717f0c0fc",
         "img": "https://picsum.photos/id/865/200/200",
         "firstName": "Jason",
-        "lastname": "Jackson"
+        "lastname": "Jackson",
+        "userRole": "admin"
       }
     ]
   }
