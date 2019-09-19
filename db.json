@@ -1,3 +1,88 @@
 {
-    
-}
+    "packages": [
+      {
+        "id": 1,
+        "title": "Package 01",
+        "img": "https://picsum.photos/id/864/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Trincomalee",
+            "lat": 8.586604,
+            "lng": 81.195450
+        }
+      },
+      {
+        "id": 2,
+        "title": "Package 02",
+        "img": "https://picsum.photos/id/875/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "kandy",
+            "lat": 7.288500,
+            "lng": 80.623721
+        }
+      },
+      {
+        "id": 3,
+        "title": "Package 03",
+        "img": "https://picsum.photos/id/878/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Galle",
+            "lat": 6.060415,
+            "lng": 80.214401
+        }
+      },
+      {
+        "id": 4,
+        "title": "Package 04",
+        "img": "https://picsum.photos/id/872/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "jaffna",
+            "lat": 9.667164,
+            "lng": 80.032289
+        }
+      },
+      {
+        "id": 5,
+        "title": "Package 05",
+        "img": "https://picsum.photos/id/871/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Kataragama",
+            "lat": 6.410675,
+            "lng": 81.333040
+        }
+      }
+    ],
+    "login": [
+      {
+        "id": 1,
+        "token": "668f71813e49432ab7acc4b717f0c0fc",
+        "img": "https://picsum.photos/id/865/200/200",
+        "firstName": "Jason",
+        "lastname": "Jackson"
+      }
+    ]
+  }
