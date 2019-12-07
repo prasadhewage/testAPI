@@ -76,6 +76,88 @@
         }
       }
     ],
+    "packageDetails": [
+      {
+        "id": 1,
+        "title": "Package 01",
+        "img": "https://picsum.photos/id/864/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Trincomalee",
+            "lat": 8.586604,
+            "lng": 81.195450
+        },
+        "details": "Trincomalee, ancient Gokanna, town and port, Sri Lanka, on the island's northeastern coast. It is situated on a peninsula in Trincomalee Bay—formerly called Koddiyar (meaning “Fort by the River”) Bay—one of the world's finest natural harbours. Trincomalee was in early times a major settlement of Indo-Aryan immigrants."
+      },
+      {
+        "id": 2,
+        "title": "Package 02",
+        "img": "https://picsum.photos/id/875/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "kandy",
+            "lat": 7.288500,
+            "lng": 80.623721
+        },
+        "details": "Kandy (Sinhala: මහනුවර Mahanuwara, pronounced [mahanuʋərə]; Tamil: கண்டி Kandy, pronounced [ˈkaɳɖi]) is a major city in Sri Lanka located in the Central Province. ... Kandy is the home of the Temple of the Tooth Relic (Sri Dalada Maligawa), one of the most sacred places of worship in the Buddhist world."
+      },
+      {
+        "id": 3,
+        "title": "Package 03",
+        "img": "https://picsum.photos/id/878/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Galle",
+            "lat": 6.060415,
+            "lng": 80.214401
+        },
+        "details": "Galle (Sinhala: ගාල්ල, romanized: Gālla; Tamil: காலி, romanized: Kāli) (formerly Point de Galle) is a major city in Sri Lanka, situated on the southwestern tip, 119 km from Colombo. Galle is the administrative capital of Southern Province, Sri Lanka and is the district capital of Galle District."
+      },
+      {
+        "id": 4,
+        "title": "Package 04",
+        "img": "https://picsum.photos/id/872/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "jaffna",
+            "lat": 9.667164,
+            "lng": 80.032289
+        },
+        "details": "Jaffna, port, northern Sri Lanka. It is situated on a flat, dry peninsula at the island's northern tip. The trading centre for the agricultural produce of the peninsula and nearby islands, it is linked with the rest of the country by road and a railway."
+      },
+      {
+        "id": 5,
+        "title": "Package 05",
+        "img": "https://picsum.photos/id/871/200/200",
+        "from": {
+            "name": "colombo",
+            "lat": 6.916552,
+            "lng": 79.873372
+        },
+        "to": {
+            "name": "Kataragama",
+            "lat": 6.410675,
+            "lng": 81.333040
+        },
+        "details": "Kataragama (Sinhala: කතරගම, romanized: Kataragama , Tamil: கதிர்காமம், romanized: Katirkāmam) is a pilgrimage town sacred to Buddhist, Hindu and indigenous Vedda people of Sri Lanka. ... Kataragama is located in the Monaragala District of Uva province, Sri Lanka. It is 228 km ESE of Colombo, the capital of Sri Lanka."
+      }
+    ],
     "login": [
       {
         "id": 1,
